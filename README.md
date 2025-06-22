@@ -184,13 +184,13 @@ fun_facts:
   </a>
 </td>
 <td align="center"  >
-  <a href="https://instagram.com/ujjwalkuikel" target="_blank">
+  <a href="https://instagram.com/ujjwal_kuikel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
     <br/><strong>Instagram</strong>
   </a>
 </td>
 <td align="center"  >
-  <a href="https://facebook.com/ujjwalkuikel" target="_blank">
+  <a href="https://facebook.com/ujjwal.kuikel.3" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
     <br/><strong>Facebook</strong>
   </a>
