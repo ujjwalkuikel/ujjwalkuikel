@@ -84,13 +84,13 @@
 <div align="center">
 
   <a href="https://github.com/ujjwalkuikel/Stock_Simulator_Back">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=Stock_Simulator_Back&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=Stock_Simulator_Back&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
   </a>
   <a href="https://github.com/ujjwalkuikel/KarmaQuiz ">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=KarmaQuiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=KarmaQuiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
   </a>
   <a href="https://github.com/ujjwalkuikel/SecondLifeFrontend">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=SecondLifeFrontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=SecondLifeFrontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
   </a>
 
 </div>
@@ -100,13 +100,13 @@
 <div align="center">
 
   <a href="https://github.com/ujjwalkuikel/Solar-Power-Plant-Management-Project">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=Solar-Power-Plant-Management-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=Solar-Power-Plant-Management-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
   </a>
   <a href="https://github.com/ujjwalkuikel/NYC-Taxi-Data-Analysis">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=NYC-Taxi-Data-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=NYC-Taxi-Data-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
   </a>
   <a href="https://github.com/ujjwalkuikel/Urban-Heat-Island-Analysis">
-    <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=Urban-Heat-Island-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+    <img width="260" src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalkuikel&repo=Urban-Heat-Island-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
   </a>
 
 </div>
