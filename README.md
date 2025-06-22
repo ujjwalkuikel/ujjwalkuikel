@@ -124,8 +124,8 @@ projects:
   - name: "Kidney Transplant AI Simulation"
     impact: "Healthcare optimization"
     status: "Thesis research 🧠"
-  - name: "SecondLife Platform"
-    impact: "Organ donation revolution"
+  - name: "SystemSloth"
+    impact: "AI-enabled system design practice platform"
     status: "In development 🚀"
 
 learning_stack:
@@ -148,7 +148,6 @@ expertise:
 fun_facts:
   - "FIFA legend 🎮"
   - "Butter chicken master chef 🍛"
-  - "Code comments with attitude 😏"
   - "Mountain resilience from Nepal 🏔️"
 ```
 
